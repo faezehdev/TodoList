@@ -34,7 +34,7 @@ export default class TodoList extends Component {
         let newTodos = [...this.state.todos]
      console.log('complete',id);
     for(let i =0 ; i< newTodos.length ; i++){
-        if(newTodos[i].id == id){
+        if(newTodos[i].id === id){
             newTodos[i].completed = !newTodos[i].completed
         }
         console.log(newTodos);
