@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/faezehdev/TodoList/static/css/main.c37044bf.css",
-    "main.js": "/faezehdev/TodoList/static/js/main.215cb4d6.js",
-    "static/js/453.59bb3b6d.chunk.js": "/faezehdev/TodoList/static/js/453.59bb3b6d.chunk.js",
-    "index.html": "/faezehdev/TodoList/index.html",
-    "main.c37044bf.css.map": "/faezehdev/TodoList/static/css/main.c37044bf.css.map",
-    "main.215cb4d6.js.map": "/faezehdev/TodoList/static/js/main.215cb4d6.js.map",
-    "453.59bb3b6d.chunk.js.map": "/faezehdev/TodoList/static/js/453.59bb3b6d.chunk.js.map"
+    "main.css": "/static/css/main.c37044bf.css",
+    "main.js": "/static/js/main.f3357d7e.js",
+    "static/js/453.59bb3b6d.chunk.js": "/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/index.html",
+    "main.c37044bf.css.map": "/static/css/main.c37044bf.css.map",
+    "main.f3357d7e.js.map": "/static/js/main.f3357d7e.js.map",
+    "453.59bb3b6d.chunk.js.map": "/static/js/453.59bb3b6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c37044bf.css",
-    "static/js/main.215cb4d6.js"
+    "static/js/main.f3357d7e.js"
   ]
 }
